@@ -107,9 +107,9 @@ header-includes:
 
 ![Рис.8 Настройка каталога](image/img-8.jpg){ #fig:008 width=70% }
 
-![](image/img-9.1.jpg){ #fig:008 width=70% }
+![](image/img-9.1.jpg)
 
-![Рис.9 Исправление ошибки](image/img-9.2.jpg){ #fig:008 width=70% }
+![Рис.9 Исправление ошибки](image/img-9.2.jpg)
 
 # Задание для самостоятельной работы:
 
